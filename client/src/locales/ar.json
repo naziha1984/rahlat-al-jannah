@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "مرحبًا بكم في رحلات الجنّة",
+    "subtitle": "شريككم للحج والعمرة والسياحة الفاخرة",
+    "getStarted": "ابدأ الآن",
+    "explore": "استكشف العروض",
+    "whyChooseUs": "لماذا تختار رحلات الجنّة؟",
+    "qualityTitle": "جودة عالية",
+    "qualityDescription": "نقدم أفضل الخدمات لرحلة لا تُنسى.",
+    "satisfiedTravelers": "مسافرون راضون",
+    "uniqueDestinations": "وجهات فريدة",
+    "guaranteedSatisfaction": "رضا مضمون"
+  },
+  "stats": {
+    "travelers": "+10 آلاف",
+    "destinations": "+50",
+    "satisfaction": "99%"
+  },
+  "nav": {
+    "hajj": "الحج",
+    "omra": "العمرة",
+    "tourisme": "السياحة",
+    "contact": "اتصل بنا"
+  }
+} 

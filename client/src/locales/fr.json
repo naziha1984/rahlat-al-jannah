@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Bienvenue chez Voyages du Paradis",
+    "subtitle": "Votre partenaire pour le Hajj, l’Omra et le tourisme de luxe",
+    "getStarted": "Commencer",
+    "explore": "Explorer nos offres",
+    "whyChooseUs": "Pourquoi nous choisir ?",
+    "qualityTitle": "Qualité supérieure",
+    "qualityDescription": "Nous offrons les meilleurs services pour un voyage inoubliable.",
+    "satisfiedTravelers": "Voyageurs satisfaits",
+    "uniqueDestinations": "Destinations uniques",
+    "guaranteedSatisfaction": "Satisfaction garantie"
+  },
+  "stats": {
+    "travelers": "10K+",
+    "destinations": "50+",
+    "satisfaction": "99%"
+  },
+  "nav": {
+    "hajj": "Hajj",
+    "omra": "Omra",
+    "tourisme": "Tourisme",
+    "contact": "Contactez-nous"
+  }
+} 

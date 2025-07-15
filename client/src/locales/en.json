@@ -1,0 +1,25 @@
+{
+  "welcome": {
+    "title": "Welcome to Voyages du Paradis",
+    "subtitle": "Your partner for Hajj, Umrah, and luxury tourism",
+    "getStarted": "Get Started",
+    "explore": "Explore our offers",
+    "whyChooseUs": "Why choose us?",
+    "qualityTitle": "Top Quality",
+    "qualityDescription": "We offer the best services for an unforgettable journey.",
+    "satisfiedTravelers": "Satisfied travelers",
+    "uniqueDestinations": "Unique destinations",
+    "guaranteedSatisfaction": "Guaranteed satisfaction"
+  },
+  "stats": {
+    "travelers": "10K+",
+    "destinations": "50+",
+    "satisfaction": "99%"
+  },
+  "nav": {
+    "hajj": "Hajj",
+    "omra": "Umrah",
+    "tourisme": "Tourism",
+    "contact": "Contact us"
+  }
+} 
