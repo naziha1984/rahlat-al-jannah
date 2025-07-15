@@ -32,14 +32,16 @@ function App() {
             {/* Page d'accueil avec navigation */}
             <Route path="/" element={<Home />} />
             
+            {/* Routes avec design autonome (image de fond) */}
+            <Route path="/hajj" element={<Hajj />} />
+            <Route path="/omra" element={<Omra />} />
+            
             {/* Routes avec layout */}
             <Route path="/app" element={<Layout />}>
               <Route index element={<Home />} />
               <Route path="destinations" element={<Destinations />} />
               <Route path="destinations/:id" element={<DestinationDetail />} />
               <Route path="about" element={<About />} />
-              <Route path="hajj" element={<Hajj />} />
-              <Route path="omra" element={<Omra />} />
               <Route path="tourisme" element={<Tourisme />} />
               <Route path="contact" element={<Contact />} />
               

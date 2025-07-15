@@ -7,7 +7,7 @@ const Hajj = () => {
   return (
     <div
       className="min-h-screen bg-cover bg-center relative"
-      style={{ backgroundImage: "url('/images/hajj.jpg')" }}
+      style={{ backgroundImage: "url('/images/image4.png')" }}
     >
       {/* Overlay sombre */}
       <div className="absolute inset-0 bg-black/40 z-0"></div>

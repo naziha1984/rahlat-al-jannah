@@ -88,7 +88,7 @@ const Login = () => {
   return (
     <div
       className="min-h-screen bg-cover bg-center relative flex items-center justify-center"
-      style={{ backgroundImage: "url('/images/login-bg.jpg')" }}
+      style={{ backgroundImage: "url('/images/image4.png')" }}
     >
       {/* Overlay sombre */}
       <div className="absolute inset-0 bg-black/40 z-0"></div>

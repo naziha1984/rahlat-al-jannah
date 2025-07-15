@@ -6,8 +6,8 @@ import { FaUsers, FaGlobe, FaHeart } from "react-icons/fa";
 import logo from "/public/images/logo.png";
 
 const navLinks = [
-  { to: "/app/hajj", key: "nav.hajj", color: "bg-green-500 hover:bg-green-600 text-white" },
-  { to: "/app/omra", key: "nav.omra", color: "bg-blue-500 hover:bg-blue-600 text-white" },
+  { to: "/hajj", key: "nav.hajj", color: "bg-green-500 hover:bg-green-600 text-white" },
+  { to: "/omra", key: "nav.omra", color: "bg-blue-500 hover:bg-blue-600 text-white" },
   { to: "/app/tourisme", key: "nav.tourisme", color: "bg-yellow-500 hover:bg-yellow-600 text-white" },
   { to: "/app/contact", key: "nav.contact", color: "bg-pink-500 hover:bg-pink-600 text-white" },
 ];

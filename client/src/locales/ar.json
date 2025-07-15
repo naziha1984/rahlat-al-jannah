@@ -21,5 +21,56 @@
     "omra": "العمرة",
     "tourisme": "السياحة",
     "contact": "اتصل بنا"
+  },
+  "home": {
+    "title": "الرئيسية"
+  },
+  "hajj": {
+    "title": "الحج - رحلة العمر",
+    "description": "اكتشف عروضنا الاستثنائية للحج، مع المرافقة والراحة والروحانية."
+  },
+  "omra": {
+    "title": "العمرة - رحلة روحية",
+    "description": "سافر للعمرة في أفضل الظروف، مع مرافقة شخصية وخدمات فاخرة."
+  },
+  "tourisme": {
+    "title": "السياحة"
+  },
+  "contact": {
+    "title": "اتصل بنا"
+  },
+  "footer": {
+    "description": "شريككم للحج والعمرة والسياحة الفاخرة",
+    "allRightsReserved": "جميع الحقوق محفوظة",
+    "contactInfo": "معلومات الاتصال",
+    "address": "العنوان"
+  },
+  "common": {
+    "backToHome": "العودة للرئيسية",
+    "loading": "جاري التحميل...",
+    "pageNotFound": "الصفحة غير موجودة"
+  },
+  "auth": {
+    "loginTitle": "تسجيل الدخول",
+    "loginSubtitle": "سجل دخولك إلى حسابك",
+    "createAccount": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "login": "تسجيل الدخول",
+    "orContinueWith": "أو المتابعة مع",
+    "google": "جوجل",
+    "twitter": "تويتر",
+    "registerTitle": "إنشاء حساب",
+    "registerSubtitle": "انضم إلينا لبدء رحلتك",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "phone": "الهاتف",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "agreeToTerms": "أوافق على شروط الاستخدام",
+    "register": "التسجيل",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "signIn": "تسجيل الدخول"
   }
 } 

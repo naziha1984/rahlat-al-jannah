@@ -21,5 +21,56 @@
     "omra": "Umrah",
     "tourisme": "Tourism",
     "contact": "Contact us"
+  },
+  "home": {
+    "title": "Home"
+  },
+  "hajj": {
+    "title": "Hajj - The journey of a lifetime",
+    "description": "Discover our exceptional Hajj offers, with accompaniment, comfort and spirituality."
+  },
+  "omra": {
+    "title": "Umrah - A spiritual journey",
+    "description": "Travel for Umrah in the best conditions, with personalized accompaniment and luxury services."
+  },
+  "tourisme": {
+    "title": "Tourism"
+  },
+  "contact": {
+    "title": "Contact"
+  },
+  "footer": {
+    "description": "Your partner for Hajj, Umrah, and luxury tourism",
+    "allRightsReserved": "All rights reserved",
+    "contactInfo": "Contact information",
+    "address": "Address"
+  },
+  "common": {
+    "backToHome": "Back to home",
+    "loading": "Loading...",
+    "pageNotFound": "Page not found"
+  },
+  "auth": {
+    "loginTitle": "Login",
+    "loginSubtitle": "Sign in to your account",
+    "createAccount": "Create account",
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "login": "Sign in",
+    "orContinueWith": "Or continue with",
+    "google": "Google",
+    "twitter": "Twitter",
+    "registerTitle": "Create account",
+    "registerSubtitle": "Join us to start your journey",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phone": "Phone",
+    "confirmPassword": "Confirm password",
+    "agreeToTerms": "I agree to the terms of use",
+    "register": "Sign up",
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Sign in"
   }
 } 

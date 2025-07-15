@@ -1,7 +1,7 @@
 {
   "welcome": {
     "title": "Bienvenue chez Voyages du Paradis",
-    "subtitle": "Votre partenaire pour le Hajj, l’Omra et le tourisme de luxe",
+    "subtitle": "Votre partenaire pour le Hajj, l'Omra et le tourisme de luxe",
     "getStarted": "Commencer",
     "explore": "Explorer nos offres",
     "whyChooseUs": "Pourquoi nous choisir ?",
@@ -21,5 +21,56 @@
     "omra": "Omra",
     "tourisme": "Tourisme",
     "contact": "Contactez-nous"
+  },
+  "home": {
+    "title": "Accueil"
+  },
+  "hajj": {
+    "title": "Hajj - Le voyage d'une vie",
+    "description": "Découvrez nos offres exceptionnelles pour le Hajj, avec accompagnement, confort et spiritualité."
+  },
+  "omra": {
+    "title": "Omra - Un voyage spirituel",
+    "description": "Partez en Omra dans les meilleures conditions, avec un accompagnement personnalisé et des services haut de gamme."
+  },
+  "tourisme": {
+    "title": "Tourisme"
+  },
+  "contact": {
+    "title": "Contact"
+  },
+  "footer": {
+    "description": "Votre partenaire pour le Hajj, l'Omra et le tourisme de luxe",
+    "allRightsReserved": "Tous droits réservés",
+    "contactInfo": "Informations de contact",
+    "address": "Adresse"
+  },
+  "common": {
+    "backToHome": "Retour à l'accueil",
+    "loading": "Chargement...",
+    "pageNotFound": "Page non trouvée"
+  },
+  "auth": {
+    "loginTitle": "Connexion",
+    "loginSubtitle": "Connectez-vous à votre compte",
+    "createAccount": "Créer un compte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "login": "Se connecter",
+    "orContinueWith": "Ou continuer avec",
+    "google": "Google",
+    "twitter": "Twitter",
+    "registerTitle": "Créer un compte",
+    "registerSubtitle": "Rejoignez-nous pour commencer votre voyage",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "phone": "Téléphone",
+    "confirmPassword": "Confirmer le mot de passe",
+    "agreeToTerms": "J'accepte les conditions d'utilisation",
+    "register": "S'inscrire",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "signIn": "Se connecter"
   }
 } 
